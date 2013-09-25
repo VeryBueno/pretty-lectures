@@ -5,7 +5,7 @@ Makes a certain professor's online lectures prettier!
 
 Works with chrome, haven't tested it with other browsers.
 
-It ditches the flash player, changes it to an HTML5 `<video>` element, then splits the script with a scrollable transcript.
+It ditches the flash player, changes it to an HTML5 `<video>` element, then splits the screen with a scrollable transcript.
 
 ##Usage
 
